@@ -1,0 +1,5 @@
+category: Gnome
+requires: cygwin glib2 glibmm24 gnome-vfsmm24 gtk2-x11 gtkmm24 libintl8 libsigc++20 libxml++26 libxml2
+sdesc: "GNOME MIME-types database editor"
+ldesc: "assoGiate is an editor of the file types database for GNOME. It 
+allows users to modify the detection and display of file types."
